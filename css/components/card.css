@@ -1,0 +1,18 @@
+.serv-card-img {
+    height: 73px;
+}
+.serv-card {
+    margin-top: 80px;
+    margin-bottom: 110px;
+}
+.card {
+    text-align: center;
+    height: 393px;
+    margin-bottom:50px ;
+}
+/* .card-portf .card {
+    padding: 0 20px;
+} */
+.serv-card-description {
+    text-align: center;
+}
