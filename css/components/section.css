@@ -24,7 +24,7 @@
   right: 0;
   left: 0;
   bottom: 0;
-  z-index: -2;
+  z-index: -1;
 }
 
 .section-tiny > img {
@@ -51,4 +51,15 @@
 .team-text {
     text-align: center;
     
+}
+.section-title-color {
+  color: white!important;
+}
+.section-map {
+  position: absolute;
+  top: 0;
+  right: -4000px;
+  left: 0;
+  bottom: 0;
+  z-index: -1;
 }
